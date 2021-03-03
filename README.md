@@ -5,9 +5,19 @@
 Full-Stack focused in Node.js 
 Game Developer in free time  🕹 
 
-<img src="https://github.com/get-icon/geticon/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="30"/> <img src="https://github.com/get-icon/geticon/blob/master/logos/mongodb.svg" alt="Node.js" width="90"/>
+##Technologies I study 📚
+
+<table>
+  <tr>
+    <td><img src="https://github.com/get-icon/geticon/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="30"/></td>
+    <td><img src="https://github.com/get-icon/geticon/blob/master/logos/mongodb.svg" alt="Node.js" width="90"/></td>
+    <td><img src="https://github.com/get-icon/geticon/blob/master/logos/react.svg" alt="React" width="30"/></td>
+  </tr> 
+</table>  
+  
 
 
+ 
 
 
 
