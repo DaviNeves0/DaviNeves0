@@ -1,4 +1,13 @@
-### Hi there 👋
+# HI, Welcome ! 👋
+
+## I'm David. Let me present a little about myself 😁
+
+Full-Stack focused in Node.js, MongoDB and React.js 
+
+![Badge](https://img.shields.io/static/v1?label=React&message=Framework&color=blue&?style=flat-square&logo=REACT)
+![Badge](https://img.shields.io/static/v1?label=Node.js&message=Software&color=success?style=flat-square&logo=Node.js)
+![Badge](https://img.shields.io/static/v1?label=MongoDB&message=DataBase&color=success?style=flat-square&logo=MongoDB)
+
 
 <!--
 **DaviNeves0/DaviNeves0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
