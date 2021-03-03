@@ -1,25 +1,15 @@
-# HI, Welcome ! 👋
+## HI, Welcome ! 👋
 
-## I'm David. Let me present a little about myself 😁
+### I'm David. Let me present a little about myself :)
 
-Full-Stack focused in Node.js, MongoDB and React.js 
+Full-Stack focused in Node.js 
+Game Developer in free time  🕹 
 
-![Badge](https://img.shields.io/static/v1?label=React&message=Framework&color=blue&?style=flat-square&logo=REACT)
-![Badge](https://img.shields.io/static/v1?label=Node.js&message=Software&color=success?style=flat-square&logo=Node.js)
-![Badge](https://img.shields.io/static/v1?label=MongoDB&message=DataBase&color=success?style=flat-square&logo=MongoDB)
+<img src="https://github.com/get-icon/geticon/blob/master/logos/nodejs-icon.svg" alt="Node.js" width="30"/> <img src="https://github.com/get-icon/geticon/blob/master/logos/mongodb.svg" alt="Node.js" width="90"/>
 
 
-<!--
-**DaviNeves0/DaviNeves0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
