@@ -5,7 +5,7 @@
 Full-Stack focused in Node.js 
 Game Developer in free time  🕹 
 
-##Technologies I study 📚
+## Technologies I study 📚
 
 <table>
   <tr>
