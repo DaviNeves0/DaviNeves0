@@ -1,6 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=DaviNeves0&color=74c77a)
-## HI 👋, Welcome ! 
+## Hi 👋 Welcome ! 
 
 ### I'm David. Let me present a little about myself :)
 
