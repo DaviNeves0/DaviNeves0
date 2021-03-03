@@ -23,11 +23,17 @@
 <hr>
 
 ### Curiosity about me 🤗
+
 I love music and playing instruments like electric guitar, bass and drums. Currently working on a music album.</br>
 I love play videogames. Join me im my:</br>
 [<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">](https://my.playstation.com/profile/Unskiller69)
+[<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">]()
+ <hr
+ 
+### Did you like me ? Contact 
 
-## Find me on: 
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 
 
