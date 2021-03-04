@@ -18,16 +18,9 @@
 <hr>
 
 ## ⚡GitHub Stats 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviNeves0&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=DaviNeves0&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>  
 
-<hr>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviNeves0&show_icons=true)
+
 
 ### Curiosity about me 🤗
 
