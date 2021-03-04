@@ -25,7 +25,8 @@
 ### Curiosity about me 🤗
 
 I love music and playing instruments like electric guitar, bass and drums. Currently working on a music album.</br>
-I love play videogames. Join me in my:</br>
+I love play videogames. Join me in my:
+
 [<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">](https://my.playstation.com/profile/Unskiller69)
 [<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">]()
  <hr>
