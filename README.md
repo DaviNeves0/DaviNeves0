@@ -20,7 +20,7 @@
 ## ⚡GitHub Stats 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviNeves0&show_icons=true)
-
+<hr>
 
 ### Curiosity about me 🤗
 
