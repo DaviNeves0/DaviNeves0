@@ -22,7 +22,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviNeves0&show_icons=true&theme=gotham&hide_border=true&hide=contribs,issues)
 <hr>
 
-### Curiosity about me 🤗
+### 🤗 Curiosity about me 
 
 I love music and playing instruments like electric guitar, bass and drums. Currently working on a music album.</br>
 I love play videogames. Join me in my:
