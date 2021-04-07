@@ -6,7 +6,7 @@
 
 🖥Full-Stack focused in Node.js and Coffee lover </br>
 🕹 Game Developer in free time using the GML language </br>
-🎓 I'm learning at the moment <strong>ReactJS</strong>, <strong>ReactNativet</strong> and <strong>TypeScript</strong>.</br>
+🎓 I'm learning at the moment <strong>ReactJS</strong>, <strong>Node.js</strong> and <strong>Java</strong>.</br>
 
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/davi.neves.7)
 [<img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/davis.neves/?hl=pt-br)
