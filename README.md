@@ -4,9 +4,10 @@
 
 ### I'm David. Let me present a little about myself :)
 
-🖥Full-Stack focused in Node.js and Coffee lover </br>
+🖥Full-Stack focused in Java SpringBoot and Coffee lover </br>
+🎨Designer and illustrator </br> 
 🕹 Game Developer in free time using the GML language </br>
-🎓 I'm learning at the moment <strong>ReactJS</strong>, <strong>Node.js</strong> and <strong>Java</strong>.</br>
+🎓 I'm learning at the moment <strong>ReactJS</strong> and <strong>Java</strong>.</br>
 
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/davi.neves.7)
 [<img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/davis.neves/?hl=pt-br)
@@ -34,18 +35,3 @@ I love play videogames. Join me in my:
 ### Did you like me ? Contact 
 
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-
-
-
-
-
-
-  
-
-
- 
-
-
-
-
-
