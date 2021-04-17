@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=DaviNeves0&color=74c77a)
 ## Hi 👋 Welcome ! 
 
-### I'm David. Let me present a little about myself :)
+### I'm David. Let me present a little about myself :3
 
 🖥Full-Stack focused in Java SpringBoot and Coffee lover </br>
 🎨Designer and illustrator </br> 
