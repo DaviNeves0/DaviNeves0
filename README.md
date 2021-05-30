@@ -4,7 +4,7 @@
 
 ### I'm David. Let me present a little about myself :3
 
-🖥Full-Stack focused in Java SpringBoot and Coffee lover </br>
+🖥Full-Stack focused in JavaScrip and Coffee lover </br>
 🎨Designer and illustrator </br> 
 🕹 Game Developer in free time using the GML language </br>
 🎓 I'm learning at the moment <strong>ReactJS</strong> and <strong>Node.js</strong>.</br>
