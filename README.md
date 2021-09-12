@@ -35,4 +35,5 @@ I love play videogames. Join me in my:
  
 ### Did you like me ? Contact 
 
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://api.whatsapp.com/send?phone=5512982377424&text=Olá%20Davi,%20Vi%20o%20seu%20GitHun%20e%20me%20interessei) 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
