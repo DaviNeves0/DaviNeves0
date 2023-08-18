@@ -21,7 +21,7 @@
 
 ## ⚡GitHub Stats 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviNeves0&show_icons=true&theme=gotham&hide_border=true&hide=contribs,issues)
+![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviNeves0&show_icons=true&theme=transparent)
 <hr>
 
 ### 🤗 Curiosity about me 
