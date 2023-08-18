@@ -1,18 +1,26 @@
 
 ![](https://komarev.com/ghpvc/?username=DaviNeves0&color=74c77a)
+
+
+<img src="https://i.pinimg.com/originals/48/5e/83/485e83ad5709e90ba5a0cffccb717e08.gif" width="250" align='right'>
+
 ## Hi 👋 Welcome ! 
 
+
 ### I'm Davi. Let me present a little about myself :3
+
 
 🖥Front-end dev focused in JavaScrip and Coffee lover </br>
 🎨Designer and illustrator </br> 
 🕹 Game Developer in free time using the GML language </br>
 🎓 I'm learning at the moment <strong>ReactJS</strong> and <strong>React Native</strong>.</br>
 
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/davi.neves.7)
+
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/davi.neves.7) 
 [<img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/davis.neves/?hl=pt-br)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/davi-neves-a50573201/)
 <hr>
+
 
 ## 🚀💻 Technologies & tools
 
