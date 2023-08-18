@@ -4,7 +4,7 @@
 
 ### I'm Davi. Let me present a little about myself :3
 
-🖥Full-Stack focused in JavaScrip and Coffee lover </br>
+🖥Front-end dev focused in JavaScrip and Coffee lover </br>
 🎨Designer and illustrator </br> 
 🕹 Game Developer in free time using the GML language </br>
 🎓 I'm learning at the moment <strong>ReactJS</strong> and <strong>React Native</strong>.</br>
@@ -27,12 +27,8 @@
 ### 🤗 Curiosity about me 
 
 I love music and playing instruments like electric guitar, bass and drums. Currently working on a music album.</br>
-I love play videogames. Join me in my:
+I love play videogames.
 
-[<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">](https://my.playstation.com/profile/Unskiller69)
-[<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">]()
- <hr>
- 
 ### Did you like me ? Contact 
 
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://api.whatsapp.com/send?phone=5512982377424&text=Olá%20Davi,%20vi%20o%20seu%20GitHun%20e%20me%20interessei) 
